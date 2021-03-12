@@ -1,11 +1,12 @@
 {
-  "name": "gwndaanmusic",
+  "name": "gwndaan-music",
   "version": "1.0.0",
-  "description": "",
+  "description": "De GwnDaan music bot",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server --hot"
-},
+    "test": "make test",
+    "start": "node index.js"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
