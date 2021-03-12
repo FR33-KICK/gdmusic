@@ -4,10 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "test": "make test",
     "start": "node index.js"
-},
+  },
   "keywords": [],
-  "author": "_FR33KICK_",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "@discordjs/opus": "^0.3.3",
